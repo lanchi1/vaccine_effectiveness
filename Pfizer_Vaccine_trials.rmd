@@ -1,7 +1,7 @@
 ---
 title: "Pfizer_Vaccine_performance"
-author: "Dr K"
-date: "11/9/2020"
+author: "Chi Nguyen"
+date: "summer2024"
 output:
   html_document: default
   word_document: default
